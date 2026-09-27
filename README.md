@@ -17,7 +17,7 @@ to organize daily tasks and track productivity.
 - JavaScript
 
 ## Live Demo
-[View TaskFlow](https://6ab915b8e5651ed8164d3450--funny-syrniki-845c7c.netlify.app/)
+[View TaskFlow](https://task-tracker-shrawani.netlify.app)
 
 ## Author
 Shrawani Kapse
